@@ -1,4 +1,5 @@
-# SQL_Tablaeu-Data-Analytics-
+# SQL_Tablaeu-Data-Analytics
+
 Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
 
 ### Database, Database Tool and Visualization Tool
